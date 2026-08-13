@@ -1,0 +1,12 @@
+pandas
+numpy
+beautifulsoup4
+lxml
+selenium
+webdriver-manager
+requests
+matplotlib
+statsmodels
+scipy
+scikit-learn
+jupyter
