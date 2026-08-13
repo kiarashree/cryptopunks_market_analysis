@@ -28,6 +28,18 @@ The pricing model explained approximately **89.5% of observed price variation**,
 
 One of the more interesting findings: **rarity mattered for valuation, but rare didn't automatically mean liquid or profitable.**
 
+### Pricing Model
+
+![Rarity vs Price](results/rarity_vs_price.png)
+
+![Actual vs Fitted Prices](results/actual_vs_fitted.png)
+
+### Liquidity & Trading Regimes
+
+![Monthly CryptoPunks Sales](results/monthly_sales.png)
+
+![Cumulative Trading Returns](results/cumulative_trading_returns.png)
+
 ## Technical Approach
 
 `Python` · `Pandas` · `NumPy` · `Statsmodels` · `Regression` · `Feature Engineering` · `Time-Series Analysis` · `Data Visualisation` · `Trading Analytics`
